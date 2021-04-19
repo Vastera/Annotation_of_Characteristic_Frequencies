@@ -10,7 +10,7 @@ Before annotation, you need:
 * open a .fig file of MATLAB, select the peaks by the default cursor.
 * set the values and symbols characteristic frequencies;
 * set tolerance(err variable) and fault type;
-* run the example program! 
+* run the example program! name: Peak_searching_demo.m
 
 
 
